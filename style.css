@@ -195,3 +195,72 @@ button {
 button:hover {
   background: #168d87;
 }
+.wrap {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  margin-top: 80px;
+ 
+}
+
+
+.block {
+  background: #fff;
+  border-radius: 22px;
+  padding: 18px;
+}
+
+.photo {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 18px;
+}
+
+.title {
+  margin: 14px 0;
+  font-size: 20px;
+}
+
+.line {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: #555;
+}
+
+.end {
+  justify-content: space-between;
+  margin-top: 22px;
+}
+
+.label {
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.a {
+  background: #e6f6f3;
+  color: #0aa39c;
+}
+
+.b {
+  background: #fde6ef;
+  color: #d84a8a;
+}
+
+.money {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.action {
+  background: #0aa39c;
+  color: white;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 22px;
+  cursor: pointer;
+}
