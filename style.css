@@ -264,3 +264,26 @@ button:hover {
   border-radius: 22px;
   cursor: pointer;
 }
+.aktiv{
+    background-color: #F4F2EE;
+    width: 100%;
+    height: 350px;
+    margin-top: 70px;
+}
+.aktiv1{
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.aktiv2{
+    font-size: 40px;
+    color: #177BA5;
+    margin-left: 850px;
+    margin-top: -270px;
+    position: absolute;
+}
+.aktiv3{
+    margin-left: 850px;
+    margin-top: -200px;
+    font-size: 20px;
+}
