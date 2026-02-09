@@ -287,3 +287,34 @@ button:hover {
     margin-top: -200px;
     font-size: 20px;
 }
+.aktiv4{
+    font-size: 45px;
+    margin-top: 250px;
+    margin-left: 50px;
+}
+.class{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.class1{
+    width: 350px;
+    margin-left: 400px;
+    margin-top: -350px;
+    position: absolute;
+    ma
+}
+.class2{
+   width: 350px;
+    margin-left: 400px;
+    margin-top: -350px;
+    position: absolute;  
+    margin-left: 800px;
+}
+.class3{
+     width: 280px;
+    margin-left: 400px;
+    margin-top: -350px;
+    position: absolute;
+    margin-left: 1200px;
+}
