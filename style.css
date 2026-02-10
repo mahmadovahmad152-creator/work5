@@ -429,3 +429,8 @@ button:hover {
   border: 1px solid #ccc;
   margin-bottom: 15px;
 }
+
+.ahref{
+    text-decoration: none;
+    color: white;
+}
