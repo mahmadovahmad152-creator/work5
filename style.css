@@ -302,7 +302,7 @@ button:hover {
     margin-left: 400px;
     margin-top: -350px;
     position: absolute;
-    ma
+    
 }
 .class2{
    width: 350px;
@@ -317,4 +317,115 @@ button:hover {
     margin-top: -350px;
     position: absolute;
     margin-left: 1200px;
+}
+.box{
+    margin-top: 300px;
+    margin-left: 30px;
+}
+.box1{
+    font-size: 30px;
+    margin-left: 700px;
+    margin-top: -350px;
+}
+.box2 {
+    margin-left: 700px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.box3{
+    margin-left: 800px;
+    margin-top: 140px;
+}
+
+.box5{
+  font-size: 30px;
+    margin-top: -300px;
+    margin-left: 50px;  
+}
+
+.box6{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.hero {
+  position: relative;
+  height: 350px;
+  margin-top: 200px;
+}
+
+.hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #222;
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background: #1c7ca7;
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.footer {
+  background: #f9f9f9;
+  padding: 60px 80px;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+
+.footer-box h3 {
+  margin-bottom: 15px;
+}
+
+.footer-box p {
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.social-icons img {
+  width: 24px;
+  margin-right: 8px;
+}
+
+.instagram-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.instagram-grid img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.footer-box input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
 }
